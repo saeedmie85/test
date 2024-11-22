@@ -1,0 +1,4 @@
+date: 2024-11-22 10:08:03.749170, f_name:add_up, inputs: (2, 5, 4, 8, 7), {}, output:26
+date: 2024-11-22 10:08:48.597677, f_name:add_up, inputs: (2, 5, 4, 8, 7), {}, output:26
+date: 2024-11-22 10:11:17.177626, f_name:add_up, inputs: (5, 5, 4, 7), {}, output:21
+date: 2024-11-22 10:12:21.004367, f_name:whisper, inputs: ('HI How are you',), {}, output:hi how are you...
